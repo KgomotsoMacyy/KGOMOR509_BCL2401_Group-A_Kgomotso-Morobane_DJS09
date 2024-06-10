@@ -24,3 +24,7 @@ const reviews = [
         date: '27-03-2021'
     },
 ]
+
+const showReviewTotal = () => {
+    
+}
